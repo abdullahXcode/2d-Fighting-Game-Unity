@@ -39,10 +39,10 @@ A 2D action/shooter game built in Unity where the player fights against various 
 3.  Click **Build**.
 4.  Select the `Builds` folder in the project directory as the output target.
 
-<<<<<<< HEAD
+
 <img src="2D%20Unity%20Game%20Picture%20.png" width="800" alt="2D Unity Game Picture">
 
 =======
->>>>>>> eed5636fc89bee8361278d8ef998f64c1ee80922
+
 ## 📝 License
 This project is for educational/personal use.
